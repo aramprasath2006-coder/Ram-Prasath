@@ -1,0 +1,6 @@
+{
+  "name": "ASCEND STALTECH INDIAA",
+  "description": "Academic learning and assessment portal for ASCEND STALTECH INDIAA featuring digital attendance, course library, timed assessments, RRB exams, and competitive exam preparation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
