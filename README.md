@@ -14,7 +14,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/PIXELIX%20MEDIA-FOUNDER-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=D4AF37&labelColor=0D0D0D&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=aramprasath2006-coder&label=Profile%20Views&color=D4AF37&labelColor=0D0D0D&style=for-the-badge" />
 
 </div>
 
