@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:3a2a06,100:D4AF37&height=230&section=header&text=RAM%20PRASATH%20A&fontSize=52&fontColor=FFD700&fontAlignY=42&animation=fadeIn&desc=Founder%20%7C%20Digital%20Strategist&descSize=20&descColor=F5E6A8&descAlignY=65" width="100%" />
 
 <!-- Company logo: upload your logo to this repo as logo.png -->
-<img src="logo.png" alt="Pixelix Media" width="150" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/logo.png" alt="Pixelix Media" width="150" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/PIXELIX%20MEDIA-FOUNDER-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
-<img src="https://komarev.com/ghpvc/?username=aramprasath2006-coder&label=Profile%20Views&color=D4AF37&labelColor=0D0D0D&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=D4AF37&labelColor=0D0D0D&style=for-the-badge" />
 
 </div>
 
@@ -41,8 +41,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&border_color=D4AF37&bg_color=0D0D0D&title_color=FFD700&text_color=F5E6A8&icon_color=D4AF37&ring_color=D4AF37" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&border_color=D4AF37&bg_color=0D0D0D&title_color=FFD700&text_color=F5E6A8" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=D4AF37&labelColor=0D0D0D" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=D4AF37&labelColor=0D0D0D" />
+<img src="https://img.shields.io/github/created-at/YOUR_USERNAME?style=for-the-badge&color=D4AF37&labelColor=0D0D0D&label=Joined" />
 </div>
 
 ## 🐍 Contribution Snake
