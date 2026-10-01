@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:3a2a06,100:D4AF37&height=230&section=header&text=RAM%20PRASATH%20A&fontSize=52&fontColor=FFD700&fontAlignY=42&animation=fadeIn&desc=Founder%20%7C%20Digital%20Strategist&descSize=20&descColor=F5E6A8&descAlignY=65" width="100%" />
 
 <!-- Company logo: upload your logo to this repo as logo.png -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/logo.png" alt="Pixelix Media" width="150" />
+<img src="https://raw.githubusercontent.comaramprasath2006-coder/main/logo.png" alt="Pixelix Media" width="150" />
 
 <br/>
 
